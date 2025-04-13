@@ -1,9 +1,7 @@
 import random
 from  mensagens import display_msn
 
-
-print('Iniciando o projeto de estudo')
-
+print('New projecct')
 
 while True:
     resp = str(input('Quer continuar [S/N]: '))
