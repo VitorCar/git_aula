@@ -3,5 +3,6 @@ display_msn =['Vai dar certo',
               'Apenas continue',
               'SÓ estude mais',
               'Não seja um cuzão',
-              'Apague as luzes'
+              'Apague as luzes',
+              'Aprendendo sobre branch'
 ]
