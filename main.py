@@ -1,7 +1,7 @@
 import random
 from  mensagens import display_msn
 
-print('New projecct')
+print('New projecct em 3.. 2.. 1')
 
 while True:
     resp = str(input('Quer continuar [S/N]: '))
