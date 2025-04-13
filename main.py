@@ -1,10 +1,5 @@
 import random
-
-display_msn =['Vai dar certo',
-              'Se estiver com medo va com medo mesmo',
-              'Apenas continue',
-              'SÓ estude mais'
-]
+from  mensagens import display_msn
 
 while True:
     resp = str(input('Quer continuar [S/N]: '))
